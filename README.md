@@ -1,4 +1,4 @@
-# Auto Withdrawal BotEVM networks + tokens
+# Auto Withdrawal Bot in EVM networks + tokens
 
 
 **Detail in the tg about successful transactions**
