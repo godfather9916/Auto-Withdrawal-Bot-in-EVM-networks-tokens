@@ -1,26 +1,24 @@
-# Multi-Auto-Withdrawal-crypto-Bot
+# Auto Withdrawal BotEVM networks + tokens
 
 
-# Multi Auto-Withdrawal crypto Bot
+**Detail in the tg about successful transactions**
 
+**Networks - BSC - BASE - ETH - AVAX - FANTOM - MATIC - ARBITRUM - OPTIMISM**
 
-Autowithdrawal sweeper bot is a bot that monitors around the clock and displays balances from Seed phrases when funds arrive
+    ● "Paying of any tokens" - payment of gas through the donor
+    
+    ● Smart Gas System for native currency
+    
+    ● Send notifications to the bot telegrams
+    
+    ● Support for a large database of private keys
+    
+    ● Ability to install your own node
+    
+    ● Fully open and clean source code
 
-● Our software has more extensive functionality than other competitors.
-software works on ETH, BSC, AVAX, FTM, NATIC network
+**Fully open and clean code? Python,**
 
-
-● Auto withdrawal of tokens works on BNB, ETH, AVAX networks.
-You yourself can set which coin you want to withdraw by entering the address of the smart contract, and from what amount.
-
-
-● Setting the amount from which the withdrawal will be made.
-
-
-● Management takes place through a telegram bot.
-
-
-● Notifications in telegram and many more.
 
 
 **Contact: [@rashtug0](https://t.me/rashtug0)**
