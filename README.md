@@ -17,7 +17,8 @@
     
     ● Fully open and clean source code
 
-**Fully open and clean code? Python,**
+    
+Fully open and clean code? Python,
 
 
 
