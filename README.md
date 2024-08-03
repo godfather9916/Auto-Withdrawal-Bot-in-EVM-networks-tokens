@@ -1,7 +1,7 @@
 # Auto Withdrawal Bot in EVM networks + tokens
 
 
-**Details in the tg about successful transactions**
+**Details in the tg about successful transaction**
 
 **Networks - BSC - BASE - ETH - AVAX - FANTOM - MATIC - ARBITRUM - OPTIMISM**
 
