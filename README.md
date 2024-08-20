@@ -9,7 +9,7 @@
     
     ● Smart Gas System for native currencys
     
-    ● Send notifications to the bot telegrams
+    ● Send notifications to the bot telegram
     
     ● Support for a large database of private keys
     
