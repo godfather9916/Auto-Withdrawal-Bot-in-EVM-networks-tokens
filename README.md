@@ -7,7 +7,7 @@
 
     ● "Paying of any tokens" - payment of gas through the donor
     
-    ● Smart Gas System for native currencys
+    ● Smart Gas System for native currency
     
     ● Send notifications to the bot telegram
     
